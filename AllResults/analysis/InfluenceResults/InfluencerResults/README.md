@@ -1,6 +1,6 @@
 Due to the restrictions of a maximum repository size, some of the data cannot be displayed. 
 
-Results include Experiments 4-9
+Results not included from Experiments 4-9
 - Experiment4: Varying Number of Influencers (Np = 50)
 - Experiment5: Varying Number of Influencers (Np = 25)
 - Experiment6: Varying Number of Influencers (Np = 75)
