@@ -1,4 +1,4 @@
-This repository contains all Python source code used for all market simulations in this these, and results from these simulations can be found [here](/AllResults/analysis/).
+This repository contains the Python source code used for all market simulations in this these, and results from these simulations can be found [here](/AllResults/analysis/).
 
 - [`BSE.py`](BSE.py) used for all simulations except GP Simulations - contains all the functions that are central to market configuration and the Exchange/LOB 
 - [`BSE_GP.py`](BSE_GP.py) used for GP simulations - contains the code for the evolved trader 
