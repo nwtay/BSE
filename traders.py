@@ -2102,7 +2102,7 @@ class Trader_OPRZI_GP(Trader):
                     p_max = p_min       # if pure-shvr strategy, set p_max = p_max = shvr price
 
                 self.updated_pmin = p_min
-                self.updated_pmax = self.pmax   # slight nuance, was trained with this so left it, but has little implication on PMFs
+                self.updated_pmax = p_max
 
                 if (self.cdf_lut_ask is None) or \
                         (self.cdf_lut_ask['strat'] != self.strat) or \
